@@ -1,7 +1,7 @@
 <h3 align="center"><img src="https://img.freepik.com/premium-vector/pixel-art-illustration-folder-icon-pixelated-folder-folder-office-icon-landmark_1038602-564.jpg?w=740" alt="logo" height="100px"></h3>
 <h3 align="center">A bash script to setup faster your project :) !!!</h3>
 
-<p align="center"><img src="https://github.com/purgemebaby/Folder-Grove/assets/158496347/d4f01fa5-0013-4974-9c5c-dcce058b4181" alt="script"></p>
+<p align="center"><img src="https://github.com/purgemebaby/Folder-Grove/assets/158496347/17707d9c-93d0-4ff2-b413-b25092841c1b" alt="script"></p>
 
 ---
 
