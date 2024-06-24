@@ -13,7 +13,7 @@ Running this script will display a menu in the CLI with 5 options:
 
 1) __Default Project Structures__: I made some examples of project structures following established standards for the corresponding language/purpose (this may not be the project structure you are searching for). In any other case, you can change this in the script or add more.
 
-2) __Create Non-Persistent Structured Project__: This allows you to make the main folders and subfolders of your project structure at your working directory/custom path, but does not saving this as a preset. (While codign, I couldn't get this one able to create subfiles).
+2) __Create Non-Persistent Structured Project__: This allows you to make the main folders and subfolders of your project structure at your working directory/custom path, but does not saving this as a preset. (While coding, I couldn't get this one able to create subfiles).
 
 3) __Create Persistent Structured Project (custom path not available)__: With this option you can save a preset in a <name>.txt located at the fg_presets folder created when you run the script.
 
